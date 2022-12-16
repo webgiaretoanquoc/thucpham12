@@ -1,0 +1,336 @@
+Uri: https://fonts.googleapis.com/css?family=-apple-system%2C+BlinkMacSystemFont%2C+"Segoe+UI"%2C+Roboto%2C+Oxygen-Sans%2C+Ubuntu%2C+Cantarell%2C+"Helvetica+Neue"%2C+sans-serif:regular%2C700%2Cregular%2C700|Yeseva+One:regular%2Cregular&display=block&ver=3.9
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/yesevaone/v20/OpNJno4ck8vc-xYpwWWxli1VXg.ttf
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\s\yesevaone\v20\OpNJno4ck8vc-xYpwWWxli1VXg.ttf
+Content Type: font/ttf
+
+Uri: https://thucpham12.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://thucpham12.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham12.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham12.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\css\front.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/delete.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\delete.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/magnifying-glass.svg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\magnifying-glass.svg
+Content Type: image/svg+xml
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/minus2.svg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\minus2.svg
+Content Type: image/svg+xml
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/plus2.svg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\plus2.svg
+Content Type: image/svg+xml
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.jquery.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.min.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\front.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\checkbox.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\mselect.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\radio.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\select.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/tooltip/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-noir.min.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\tooltip\css\plugins\tooltipster\sideTip\themes\tooltipster-sideTip-noir.min.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/tooltip/css/tooltipster.bundle.min.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\tooltip\css\tooltipster.bundle.min.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/tooltip/js/tooltipster.bundle.min.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\tooltip\js\tooltipster.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/themes/web2s-vn/style.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\themes\web2s-vn\style.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/bg-gray.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\bg-gray.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/bg-green.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\bg-green.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/bg-tree.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\bg-tree.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/co5.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\co5.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/cropped-logo-180x180.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\cropped-logo-180x180.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/cropped-logo-192x192.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\cropped-logo-192x192.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/cropped-logo-32x32.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\cropped-logo-32x32.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/daily.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\daily.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/email.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\email.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/gio-hang-icon.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\gio-hang-icon.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/home.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\home.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/hotline.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\hotline.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/huongdan.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\huongdan.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/icon2.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\icon2.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/li-menu.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\li-menu.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/line-title.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\line-title.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/line.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\line.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/logo-300x112.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\logo-300x112.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/logo-comem.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\logo-comem.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/logo.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\logo.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/menuproduct.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\menuproduct.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/phone.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\phone.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/submenu-1.jpg
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\submenu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/title.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\title.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/trans_afamily11.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\trans_afamily11.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/trans_bo-cong-thuong.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\trans_bo-cong-thuong.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/trans_logo-antv.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\trans_logo-antv.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/trans_logo-eva.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\trans_logo-eva.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/trans_logo-suckhoe-ds.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\trans_logo-suckhoe-ds.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-content/uploads/2020/06/trans_vtc10_22.png
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-content\uploads\2020\06\trans_vtc10_22.png
+Content Type: image/png
+
+Uri: https://thucpham12.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://thucpham12.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham12.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://thucpham12.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://thucpham12.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://thucpham12.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\thucpham12.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
